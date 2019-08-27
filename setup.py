@@ -12,6 +12,7 @@ setup(
     python_requires='>=3.6, <4',
     install_requires=[
         'keras',
-        'opencv-python'
+        'opencv-python',
+        'pillow'
     ],
 )
